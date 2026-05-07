@@ -90,3 +90,12 @@ C = 1
 max_iter = 100
 penalty = 'l2'
 solver = 'lbfgs'
+```
+
+## Model Evaluation
+
+Final performance on test data:
+
+Accuracy: ~0.85
+F1 Score: ~0.90
+High Recall for approved loans (important for business use case)
