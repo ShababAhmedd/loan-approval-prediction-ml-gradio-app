@@ -130,9 +130,13 @@ The application is deployed using Hugging Face Spaces.
 ```
 
 ## How to run locally
+Clone the repository
+```bash
+git clone https://github.com/ShababAhmedd/loan-approval-prediction-ml-gradio-app
+```
 Install Dependencies
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
