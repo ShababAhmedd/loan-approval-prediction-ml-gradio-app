@@ -92,6 +92,8 @@ penalty = 'l2'
 solver = 'lbfgs'
 ```
 
+---
+
 ## Model Evaluation
 
 Final performance on test data:
@@ -105,8 +107,16 @@ Final performance on test data:
 - Mean F1 Score: ~0.87
 - Standard deviation: ~0.03
 
-# Web Application (Gradio)
+---
+
+## Web Application (Gradio)
 
 A user-friendly web interface was built using Gradio where users can input the features.
 
 And get instant prediction: Loan Approved / Not Approved
+
+## Deployment
+
+The application is deployed using Hugging Face Spaces.
+
+[Live App Link](https://huggingface.co/spaces/ShababAhmed0/loan-approval-prediction-ml-gradio-app)
