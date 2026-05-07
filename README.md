@@ -51,7 +51,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 🔗 Pipeline Creation
+## Pipeline Creation
 
 A complete ML pipeline was created using `ColumnTransformer` and `Pipeline` to ensure:
 
