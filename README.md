@@ -41,7 +41,7 @@ Target Variable:
 
 The following preprocessing steps were performed:
 
-- Handling missing values using **median, and mode imputation**
+- Handling missing values using **median and mode imputation**
 - Encoding categorical variables using **Label Encoding and One-Hot Encoding**
 - Feature transformation using **log transformation**
 - Feature scaling using **StandardScaler**
@@ -117,7 +117,7 @@ And get instant prediction: Loan Approved / Not Approved
 
 ## Deployment
 
-The application is deployed using Hugging Face Spaces.
+The trained model is deployed using Hugging Face Spaces with a Gradio interface for real-time predictions.
 
 <img width="1920" height="1080" alt="Screenshot from 2026-05-07 23-20-56" src="https://github.com/user-attachments/assets/2c3ab8cb-08b0-40a1-b91f-9f512160986a" />
 
@@ -140,7 +140,7 @@ The application is deployed using Hugging Face Spaces.
 ## How to run locally
 Clone the repository
 ```bash
-git clone https://github.com/ShababAhmedd/loan-approval-prediction-ml-gradio-app
+git clone https://github.com/ShababAhmedd/loan-approval-prediction-ml-gradio-app.git
 ```
 Install Dependencies
 
@@ -150,7 +150,7 @@ pip install -r requirements.txt
 
 Run Gradio app
 
-```python
+```bash
 python app.py
 
 ```
