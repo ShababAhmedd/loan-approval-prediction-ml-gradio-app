@@ -41,7 +41,7 @@ Target Variable:
 
 The following preprocessing steps were performed:
 
-- Handling missing values using **mean, median, and mode imputation**
+- Handling missing values using **median, and mode imputation**
 - Encoding categorical variables using **Label Encoding and One-Hot Encoding**
 - Feature transformation using **log transformation**
 - Feature scaling using **StandardScaler**
