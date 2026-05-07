@@ -100,6 +100,7 @@ solver = 'lbfgs'
 
 <img width="536" height="476" alt="Screenshot from 2026-05-07 23-24-31" src="https://github.com/user-attachments/assets/55df074a-f9b4-46e6-a4db-b9b56a3e190b" />
 
+
 Final performance on test data:
 
 - Accuracy: ~0.85
@@ -122,6 +123,7 @@ The application is deployed using Hugging Face Spaces.
 
 [Live App Link](https://huggingface.co/spaces/ShababAhmed0/loan-approval-prediction-ml-gradio-app)
 
+---
 
 ## Project Structure
 ```
