@@ -105,7 +105,7 @@ Final performance on test data:
 
 - Accuracy: ~0.85
 - F1 Score: ~0.90
-- High Recall for approved loans (important for business use case)
+- High Recall for approved loans
 
 ---
 
