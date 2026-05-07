@@ -109,6 +109,4 @@ Final performance on test data:
 
 A user-friendly web interface was built using Gradio where users can input the features.
 
-And get instant prediction:
-
-Loan Approved / Not Approved
+And get instant prediction: Loan Approved / Not Approved
