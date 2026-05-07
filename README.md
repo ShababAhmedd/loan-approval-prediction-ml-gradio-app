@@ -100,7 +100,15 @@ Final performance on test data:
 - F1 Score: ~0.90
 - High Recall for approved loans (important for business use case)
 
-# Cross Validation
+## Cross Validation
 - 10-Fold Stratified Cross Validation was used
 - Mean F1 Score: ~0.87
 - Standard deviation: ~0.03
+
+# Web Application (Gradio)
+
+A user-friendly web interface was built using Gradio where users can input the features.
+
+And get instant prediction:
+
+Loan Approved / Not Approved
