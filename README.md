@@ -96,6 +96,11 @@ solver = 'lbfgs'
 
 Final performance on test data:
 
-Accuracy: ~0.85
-F1 Score: ~0.90
-High Recall for approved loans (important for business use case)
+- Accuracy: ~0.85
+- F1 Score: ~0.90
+- High Recall for approved loans (important for business use case)
+
+# Cross Validation
+- 10-Fold Stratified Cross Validation was used
+- Mean F1 Score: ~0.87
+- Standard deviation: ~0.03
