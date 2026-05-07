@@ -133,3 +133,18 @@ The application is deployed using Hugging Face Spaces.
 ├── ydata.html (Y Data profiling)
 ├── README.md
 ```
+
+## How to run locally
+Install Dependencies
+
+```
+pip install -r requirements.txt
+```
+
+Run Gradio app
+
+```python
+python app.py
+```
+
+
