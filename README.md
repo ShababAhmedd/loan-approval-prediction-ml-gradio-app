@@ -114,6 +114,8 @@ And get instant prediction: Loan Approved / Not Approved
 
 The application is deployed using Hugging Face Spaces.
 
+<img width="1920" height="1080" alt="Screenshot from 2026-05-07 23-18-40" src="https://github.com/user-attachments/assets/57d116b1-f840-409d-826c-241c3e20a389" />
+
 [Live App Link](https://huggingface.co/spaces/ShababAhmed0/loan-approval-prediction-ml-gradio-app)
 
 
@@ -144,6 +146,7 @@ Run Gradio app
 
 ```python
 python app.py
+
 ```
 
 
