@@ -1,4 +1,4 @@
-# Loan Approval Prediction System 🤖🏦
+# Loan Approval Prediction System
 
 This project is a machine learning-based **Loan Approval Prediction System** that predicts whether a loan application will be approved or not based on applicant details. It includes full data preprocessing, model training, evaluation, and deployment using a Gradio web interface hosted on Hugging Face Spaces.
 
