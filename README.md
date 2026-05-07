@@ -96,6 +96,10 @@ solver = 'lbfgs'
 
 ## Model Evaluation
 
+### Confusion Matrix
+
+<img width="536" height="476" alt="Screenshot from 2026-05-07 23-24-31" src="https://github.com/user-attachments/assets/55df074a-f9b4-46e6-a4db-b9b56a3e190b" />
+
 Final performance on test data:
 
 - Accuracy: ~0.85
@@ -148,6 +152,7 @@ Run Gradio app
 python app.py
 
 ```
+
 
 
 
