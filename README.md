@@ -120,3 +120,16 @@ And get instant prediction: Loan Approved / Not Approved
 The application is deployed using Hugging Face Spaces.
 
 [Live App Link](https://huggingface.co/spaces/ShababAhmed0/loan-approval-prediction-ml-gradio-app)
+
+
+## Project Structure
+```
+.
+├── loan_approval_prediction.csv (Dataset)
+├── Untitled0.ipynb (notebook)
+├── best_lr_model.pkl (best saved model)
+├── app.py (Gradio)
+├── requirements.txt
+├── ydata.html
+├── README.md
+```
