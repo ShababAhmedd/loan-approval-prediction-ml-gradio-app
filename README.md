@@ -7,13 +7,7 @@ https://www.kaggle.com/datasets/ninzaami/loan-predication
 
 ---
 
-## Project Objective
-
-The goal of this project is to build a classification model that can predict loan approval status using applicant financial and personal information. This helps automate loan decision-making and reduce manual processing effort.
-
----
-
-## 📂 Dataset Information
+##  Dataset Information
 
 The dataset contains information such as:
 
