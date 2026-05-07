@@ -130,6 +130,6 @@ The application is deployed using Hugging Face Spaces.
 ├── best_lr_model.pkl (best saved model)
 ├── app.py (Gradio)
 ├── requirements.txt
-├── ydata.html
+├── ydata.html (Y Data profiling)
 ├── README.md
 ```
