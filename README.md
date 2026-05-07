@@ -25,7 +25,7 @@ Target Variable:
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python
 - Pandas, NumPy
@@ -37,7 +37,7 @@ Target Variable:
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -61,7 +61,7 @@ A complete ML pipeline was created using `ColumnTransformer` and `Pipeline` to e
 
 ---
 
-## 🤖 Models Used
+## Models Used
 
 The following models were trained and compared:
 
@@ -73,7 +73,7 @@ The following models were trained and compared:
 
 ---
 
-## 🏆 Best Model Selection
+## Best Model Selection
 
 After evaluation, **Logistic Regression** performed the best based on:
 
