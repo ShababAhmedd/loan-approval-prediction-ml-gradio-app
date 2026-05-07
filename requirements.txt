@@ -124,7 +124,7 @@ pure_eval==0.2.3
 puremagic==2.2.0
 pyarrow==22.0.0
 pycparser==2.23
-pydantic==2.13.3
+pydantic>=2.11.10,<2.13
 pydantic_core==2.46.3
 pydub==0.25.1
 Pygments==2.19.2
